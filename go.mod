@@ -1,4 +1,4 @@
-module github.com/wangjinh/common
+module github.com/asveg/common
 
 go 1.13
 
